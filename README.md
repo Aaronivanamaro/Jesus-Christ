@@ -1,2 +1,190 @@
-# Jesus-Christ
-Tribute Page
+<!DOCTYPE html>
+<html lang="EN">
+<head>
+  <meta charset="UTF-8">
+  <title>Jesus Christ</title>
+  <style>
+    html {
+  font-size: 10px;
+}
+body {
+  font-family:'Segoe UI', 'Roboto','Helvetica Neue', Arial, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #fff5cc;
+  margin: 0;
+  background:black;
+}
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+  color:#ffe066;
+  background:black;
+
+}
+
+@media (max-width: 460px) {
+  h1 {
+    font-size: 4rem;
+    line-height: 1.2;
+  }
+}
+p{
+  font-size:2rem;
+  color: #ffe066;
+  background:black;
+  text-align:center;
+}
+h3{
+  font-size:2rem;
+  text-decoration:underline;
+}
+h4{
+  font-size:1.5rem;
+}
+div{
+  text-align: justify;
+  font-size:1.2rem;
+  margin-left: 0.5rem;
+}
+li{
+  text-align:justify;
+  margin-right:3rem;
+  margin-left:3rem;
+}
+h2 {
+  font-size: 3.25rem;
+}
+
+a {
+  color: #ffcc00;
+}
+
+a:visited {
+  color: #ffd633;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: black;
+}
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+
+img {
+  max-width: 40%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  background:black;
+}
+
+#img-div {
+  background: black;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+  color:#ffe066;
+
+}
+
+@media (max-width: 460px) {
+  #img-caption {
+    font-size: 1.6rem;
+  }
+}
+
+#headline {
+  margin: 50px 0;
+  text-align: center;
+}
+q {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: center;
+  font-size:1.4rem;
+  color:#ffe066;
+ }
+  </style>
+</head>
+<main id="main">
+  <h1 id="title">Jesus Christ</h1>
+  <p>The God-man who saved the world</p>
+  <figure id="img-div">
+    <img id="image" src="https://i.ibb.co/H2y8v3D/pngwing-com-57.png" alt="Jesus Christ offering grace and a new life">
+    <figcaption id="img-caption">King Jesus enthroned in Heaven, caring for His people and governing the world with grace and truth
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Here's a brief description of Jesus:</h3>
+    <ul>
+      <li>
+        <strong>Encarnation: God made man
+        </strong> 
+        <div>
+         "The true light, which gives light to everyone, was coming into the world. He was in the world, and the world was made through him (...) And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth." (John 1:9-10;14)
+        </div>
+        </li>
+      <li>
+        <strong>Life: service and love
+        </strong>
+        <div>
+          "the Son of Man came not to be served but to serve (...) A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another (...) though he was God, he did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men." (Matthew 20:28; John 13:34; Philippians 2:6-7)
+        </div>
+      </li>
+      <li>
+        <strong>Death: under God's judgment
+        </strong>
+        <div>
+          "For while we were still weak, at the right time Christ died for the ungodly. For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die— but God shows his love for us in that while we were still sinners, Christ died for us. Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God. For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life." (Romans 5:6-10)
+        </div>
+      </li>
+      <li>
+        <strong>
+          Resurrection: The Risen King
+        </strong>
+        <div>
+          "was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead (...) God raised him up, loosing the pangs of death, because it was not possible for him to be held by it (...) This Jesus God raised up, and of that we all are witnesses." (Romans 1:4; Acts 2:24,32) 
+        </div>
+      </li>
+      <li>
+        <strong>Exaltation: His Heavenly Throne
+        </strong>
+        <div>
+          "Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father (...) After making purification for sins, he sat down at the right hand of the Majesty on high." (Philippians 2:9-11; Hebrews 1:3)
+        </div>
+      </li>
+      <li>
+        <strong>Reign: a Kingdom of Justice and Peace
+        </strong>
+        <div>
+         "For he must reign until he has put all his enemies under his feet (...) May the righteous flourish in his days, as well as an abundance of peace, until the moon is no more." (1 Corinthians 15:25; Psalm 72:7) 
+        </div>
+      </li>
+    </ul>
+    <br>
+       <q>
+        For a Child will be born to us, a Son will be given to us; And the government will rest on His shoulders; And His name will be called Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace. There will be no end to the increase of His government or of peace On the throne of David and over his kingdom, To establish it and to uphold it with justice and righteousness From then on and forevermore. The zeal of the Lord of armies will accomplish this.
+      </q>
+    <cite>Isaiah 9:6-7</cite>
+<br>
+    <h4>
+      If you want to know more about Him, you should read His Word:
+      <a id="tribute-link"
+        href="https://www.biblegateway.com/"
+        target="_blank"
+         >The Bible</a>
+       </h4>
+  </section>
+</main>
